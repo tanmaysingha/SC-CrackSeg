@@ -32,3 +32,19 @@ Accuracy |   mIoU   |   mF1   |   mAP   |   mRC   | No. of parameters | FLOPs | 
 ### Prediction by SC-CrackSeg using different crack datasets samples
 
 ![Output_by_SCCrackSeg](https://github.com/tanmaysingha/SC-CrackSeg/blob/main/Images/model_predictions.png?raw=true)  
+
+ ### Citation
+ ```yaml
+cff-version: 1.2.0
+If this research work is useful for your research work, then please consider for citing the paper:
+  @INPROCEEDINGS{crackSeg2022singha,
+  author={Singha, Tanmay and Bergemann, Moritz and Pham, Duc-Son and Krishna, Aneesh},
+  booktitle={Proc. DICTA}, 
+  title={{SC-CrackSeg: A Real-time Shared Feature Pyramid Network for Crack Detection and Segmentation}}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={1-8},
+  doi={10.1109/DICTA56598.2022.10034629}}
+
+```
